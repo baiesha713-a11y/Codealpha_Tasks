@@ -84,7 +84,7 @@ The Tableau dashboard provides an interactive view of Flipkart product performan
 A short walkthrough explaining the dataset, dashboard, KPIs, and insights.
 
 ▶️ Video Demo:
-👉 https://drive.google.com/your-video-demo-link
+👉 "C:\Users\b aiesha\Downloads\Codealpha_Task 2_EDA\flipkart video clip.mp4"
 
 🔍 Key Insights
 
