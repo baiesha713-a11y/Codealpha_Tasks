@@ -39,7 +39,7 @@ Units sold & stock availability
 python file : https://github.com/baiesha713-a11y/Codealpha_Tasks/blob/main/codealpha_task_3/flipkard%20analysis.ipynb
 
 📥 CSV Dataset:
-👉 https://github.com/your-username/your-repo-name/blob/main/flipkart_dataset.csv
+👉 https://github.com/baiesha713-a11y/Codealpha_Tasks/blob/main/codealpha_task_3/flipkart.csv
 
 (replace with your actual CSV link)
 
