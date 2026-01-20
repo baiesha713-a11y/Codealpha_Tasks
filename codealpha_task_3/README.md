@@ -76,10 +76,8 @@ Average Delivery Days
 The Tableau dashboard provides an interactive view of Flipkart product performance with filters for brand, category, and city.
 
 📂 Tableau Workbook (.twb):
-👉 https://drive.google.com/your-tableau-file-link
+👉 https://github.com/baiesha713-a11y/Codealpha_Tasks/blob/main/codealpha_task_3/flipkart%20tableau%20dashboard.twb
 
-🌐 Tableau Public Link:
-👉 https://public.tableau.com/views/your-dashboard-link
 
 🎥 Video Demo
 
