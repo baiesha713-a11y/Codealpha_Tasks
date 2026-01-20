@@ -111,7 +111,5 @@ It highlights pricing strategy, customer behavior, and delivery efficiency—key
 
 👤 Author
 
-Aisha Naaz
-📧 LinkedIn: https://www.linkedin.com/in/your-link
+Aisha
 
-💻 GitHub: https://github.com/your-username
